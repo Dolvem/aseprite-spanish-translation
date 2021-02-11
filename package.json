@@ -1,0 +1,21 @@
+{
+    "name": "aseprite-language-spanish",
+    "displayName": "Español",
+    "description": "Traducción al Español",
+    "version": "1.0",
+    "author": {
+        "name": "David Molero Herrera",
+		"email": "contact.dolvem@gmail.com",
+        "url": "https://github.com/Dolvem"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+                "id": "es",
+                "path": "./es.ini"
+            }
+        ]
+    }
+}
